@@ -5,7 +5,7 @@ class App extends Component{
   render(){
     return(
       <div>
-        <h1>Iniciando o estudo de componentes</h1>
+        <h1>Iniciando o estudo de Eventos</h1>
       </div>
     );
   }
